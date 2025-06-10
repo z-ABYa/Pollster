@@ -1,0 +1,2 @@
+# Pollster
+django-poll-website
